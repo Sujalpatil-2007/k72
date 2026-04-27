@@ -11,7 +11,7 @@ const HomeHeroText = () => {
       <div className="lg:text-[9.5vw] text-[12vw] justify-center flex items-start uppercase lg:leading-[8vw] leading-[10vw] ">
         qui
         <div className="h-[7vw] w-[16vw]  rounded-full mt-1 lg:mt-0 overflow-hidden border-none shadow-[10px_10px_50px_5px_black] ">
-          <video className='h-full w-full object-cover rounded-full' disablePictureInPicture autoPlay loop muted src='../../../public/video.mp4'></video>
+          <video className='h-full w-full object-cover rounded-full' disablePictureInPicture autoPlay loop muted src='/video.mp4'></video>
         </div>génère
       </div>
       <div className="lg:text-[9.5vw] text-[12vw] justify-center flex items-start uppercase lg:leading-[8vw] leading-[10vw] ">la créativité</div>
